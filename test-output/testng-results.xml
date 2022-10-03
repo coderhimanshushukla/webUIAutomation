@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93094" started-at="2022-10-03T21:30:47 IST" finished-at="2022-10-03T21:32:20 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93094" started-at="2022-10-03T21:30:47 IST" finished-at="2022-10-03T21:32:20 IST">
+      <class name="com.ixigo.qa.testcases.SearchFlightTestCases">
+        <test-method status="PASS" signature="getTop20Flights()[pri:0, instance:com.ixigo.qa.testcases.SearchFlightTestCases@7d0332e1]" name="getTop20Flights" duration-ms="93023" started-at="2022-10-03T21:30:47 IST" finished-at="2022-10-03T21:32:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTop20Flights -->
+      </class> <!-- com.ixigo.qa.testcases.SearchFlightTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
